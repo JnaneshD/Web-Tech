@@ -1,0 +1,35 @@
+* {
+       margin: 0px;
+       padding: 0px;
+}      
+body { 
+       background-color: #f0f0f0;
+       font-size:14px; 
+       font-color: #000000;
+}      
+#wrapper {
+       width: 800px;
+       margin-left: auto;
+       margin-right: auto; 
+       
+}      
+#header {
+       background-color: #cccccc;
+       width: 100%;
+       margin-bottom: 10px;
+}      
+#logo {
+       text-shadow: 1px 1px 1px #eeeeee;
+       color: #ffffff;
+       font-size: 36px;
+       margin: 10px 0px 0px 10px;
+}   
+.post {
+       background-color: #ffffff;
+       padding: 5px;
+       border: 1px solid #cccccc;
+       margin-bottom: 5px;
+}      
+h1 {   
+       font-size: 18px;
+}
